@@ -1,0 +1,11 @@
+PERGUNTA,LETRAA,LETRAB,LETRAC,LETRAD,LETRAE,RESPOSTA,NIVEL
+Qual o valor de ((3*4)/(6*2))+2?,5,4,3,6,1,c,0
+Qual ÃÂ© a raiz quadrada de 144?,15,11,12,16,13,c,0
+Qual ÃÂ© a derivada de 3X^3-2X^2+10X?,9X^3-4X+10X,9X^2+4X+10,6X^2-4X+10,9X^2-4X+10,9X^2-4X-10,d,1
+Qual ÃÂ© a derivada de 1/2X^2+6X-20?,2X-6,X+6,2X~2-6X+20,X-6,1/2X+6,b,1
+Qual ÃÂ© o produto de 222*223?,48666,45886,56736,52446,49506,e,0
+Qual ÃÂ© a soma de 2555+1224?,3559,3669,3449,3779,3789,d,0
+Qual ÃÂ© o menacismo farmacolÃÂ³gico do captopril?,Captopril inibe o receptor da angiotensina II,Captopril atua nos receptores alfa adrenÃÂ©rgicos,Captopril ÃÂ© um betabloqueador adrenÃÂ©rgico,Captopril ÃÂ© um inibidor da enzima conversora da angiotensina,Captopril ÃÂ© um agonista H1,d,2
+Qual o Produto de 45*7?,300,45,495,315,390,d,0
+Qual a soma de 555+555?,1010,1110,1210,1120,1090,b,0
+Quanto Ã© o produto de 3x-2*6x?,9x-2,18x^2-12x,12x^2-8x,18x-12x^2,9x^2-2x,b,0
