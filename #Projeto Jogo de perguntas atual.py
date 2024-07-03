@@ -1,4 +1,4 @@
-#Projeto Jogo de perguntas 
+#Projeto Jogo de perguntas Disciplina de Introdução a Programação I - UFRPE
 import csv
 import pandas as pd
 from random import Random
@@ -59,7 +59,6 @@ def alterar():
     with open('perguntas.csv', 'r', encoding='latin-1') as f:
         reader = csv.DictReader(f)
         df = pd.DataFrame(reader)
-    
         while True:
             print('=========================================================================================')
             print('Para corrigir pergunta (P), Letra (L+(A,B,C,D ou E)), Resposta (R), Nível (N) ou (0=Sair)?\n')
